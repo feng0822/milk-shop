@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#fff3e0"/><stop offset="100%" style="stop-color:#fffbe6"/></linearGradient></defs>
+  <rect width="200" height="200" rx="16" fill="url(#bg)"/>
+  <ellipse cx="100" cy="170" rx="45" ry="12" fill="#FFD700" opacity="0.4"/>
+  <rect x="65" y="75" width="70" height="90" rx="8" fill="#ffffff" stroke="#FFD700" stroke-width="2"/>
+  <rect x="60" y="67" width="80" height="14" rx="4" fill="#FFA500"/>
+  <ellipse cx="95" cy="118" rx="10" ry="12" fill="#FF8C00" opacity="0.7"/>
+  <circle cx="112" cy="125" r="8" fill="#FFA500" opacity="0.6"/>
+  <circle cx="88" cy="135" r="6" fill="#FF6347" opacity="0.5"/>
+  <text x="100" y="38" text-anchor="middle" font-size="13" font-weight="bold" fill="#CC7000">满杯百香果</text>
+  <text x="100" y="195" text-anchor="middle" font-size="11" fill="#999">¥14</text>
+</svg>

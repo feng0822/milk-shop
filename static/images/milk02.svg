@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#fde8d0"/><stop offset="100%" style="stop-color:#fff0e0"/></linearGradient></defs>
+  <rect width="200" height="200" rx="16" fill="url(#bg)"/>
+  <ellipse cx="100" cy="170" rx="45" ry="12" fill="#d4a574" opacity="0.4"/>
+  <rect x="65" y="80" width="70" height="85" rx="8" fill="#ffffff" stroke="#d4a574" stroke-width="2"/>
+  <rect x="60" y="72" width="80" height="14" rx="4" fill="#c4884d"/>
+  <rect x="68" y="95" width="64" height="55" rx="4" fill="#D2B48C" opacity="0.5"/>
+  <circle cx="85" cy="125" r="5" fill="#8B6914" opacity="0.6"/>
+  <circle cx="100" cy="132" r="4" fill="#8B6914" opacity="0.5"/>
+  <circle cx="115" cy="122" r="4.5" fill="#8B6914" opacity="0.55"/>
+  <text x="100" y="40" text-anchor="middle" font-size="14" font-weight="bold" fill="#a06030">芋泥波波奶茶</text>
+  <text x="100" y="195" text-anchor="middle" font-size="11" fill="#999">¥15</text>
+</svg>
